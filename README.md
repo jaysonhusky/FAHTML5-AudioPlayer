@@ -2,6 +2,11 @@
 
 FAHTML5 is a HTML5 audio player intended for use to replace, outdated and insecure Shockwave Flash players.
 	
+	
+	Deprecation:
+		* Since FurAffinity now uses its own HTML5 Audio player, this code may not work as expected and can be classified as deprecated, it will not recieve any further updates.
+	
+	
 	Version 1.2.1:
 		* Supports ALL native audio formats that are specified under the HTML5 standard.
 		* Capable of falling back gracefully to the browsers own player should styling fail. (Due to beta improvements etc)
